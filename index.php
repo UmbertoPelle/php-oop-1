@@ -16,7 +16,7 @@ class User{
   }
 
   public function __toString(){
-    $str = 'User -> <br> Username: '.$this -> username
+    $str = 'User &#129332; <br> Username: '.$this -> username
             .'<br> email: '.$this -> email
             .'<br> password: ok!';
     if ($this -> age) {
