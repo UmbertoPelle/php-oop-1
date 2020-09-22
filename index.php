@@ -36,4 +36,4 @@ $user3 = new User('UgoB', 'ughetto@email.it', 'superPassw');
 $user2 -> age = 33;
 $user3 -> gender = 'male';
 
-echo $user1 .'<br>' .'<br>'. $user2 .'<br>'.'<br>' . $user3;
+echo $user1 .'<br> <br>'. $user2 .'<br> <br>' . $user3;
